@@ -11,7 +11,7 @@ var stable = {
     {
       name: 'BIG BROWN REAL HORSE',
       color: 'fawn'
-    }
+    }gjxvgxcvgcxvgjc
   ]
 
 };
